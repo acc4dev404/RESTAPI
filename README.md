@@ -1,4 +1,4 @@
-# load-rest-api-v1
+# REST API
 REST API service for loading test
 
 ## Port
